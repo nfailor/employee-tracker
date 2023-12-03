@@ -29,6 +29,8 @@
 
   To interact with the database, run "npm start" to begin viewing the information. Please see below video for practical demonstration:
 
+  https://drive.google.com/file/d/1Y14h8Nib6lJl1i81rK3WpCjUqLc_qgVC/view
+  
   ## Licensing
 
   This project is licensed under the ISC license. [![GitHub License](https://img.shields.io/badge/license-ISC-blue.svg)
